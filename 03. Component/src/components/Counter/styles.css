@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.counter {
+  display: inline-block;
+  min-height: 1em;
+  font-size: 30px;
+  color: #b9b9b9;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.buttons {
+  list-style: none;
+}
+
+.buttons li {
+  display: inline-block;
+}
+
+.btn {
+  margin: 10px;
+}

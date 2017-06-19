@@ -1,0 +1,14 @@
+{
+  "name": "introduccion-a-react",
+  "version": "1.0.0",
+  "description": "Hablemos de las bases de React, cómo funciona \"JSX\", \"props\", \"state\" y veamos una comparación entre React, Vanilla JS y JQuery!",
+  "scripts": {
+    "start": "lr-http-server -p 3002 -d src/ -u /#/main -l 30000 -w **/*"
+  },
+  "author": "Alejandro Benjumea",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "lr-http-server": "0.1.5"
+  }
+}

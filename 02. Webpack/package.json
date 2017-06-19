@@ -1,0 +1,28 @@
+{
+  "name": "introduccion-a-react",
+  "version": "1.0.0",
+  "description": "Hablemos de las bases de React, cómo funciona \"JSX\", \"props\", \"state\" y veamos una comparación entre React, Vanilla JS y JQuery!",
+  "scripts": {
+    "start": "./node_modules/.bin/webpack-dev-server"
+  },
+  "author": "Alejandro Benjumea",
+  "license": "MIT",
+  "dependencies": {
+    "react": "15.5.4",
+    "react-dom": "15.5.4"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "3.2.0",
+    "babel-cli": "6.24.1",
+    "babel-loader": "7.0.0",
+    "babel-preset-env": "1.5.1",
+    "babel-preset-react": "6.24.1",
+    "babel-preset-stage-0": "6.24.1",
+    "css-loader": "0.28.4",
+    "node-sass": "4.5.3",
+    "sass-loader": "6.0.5",
+    "style-loader": "0.18.2",
+    "webpack": "2.6.1",
+    "webpack-dev-server": "2.4.5"
+  }
+}
